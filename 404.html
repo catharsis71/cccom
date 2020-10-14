@@ -13,7 +13,7 @@ var pictureHeight = 46;
 var numqueens = 100;
 var downSpeed = 0.05;
 var lrqueens = 10;
-var Emergencyskyqueens = 1;
+var Emergencyskyqueens = false;
 
 if( typeof( numqueens ) != 'number' || Math.round( numqueens ) != numqueens || numqueens < 1 ) { numqueens = 10; }
 
@@ -74,7 +74,7 @@ Emergencyskyqueens = window.setInterval('skyqueensFall();',100);
  
 </head>
  
-<body bgcolor="#000000" onclick="dispenseskyqueens();"> 
+<body bgcolor="#000000" onload="dispenseskyqueens();"> 
 <br><br><br>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q86FZG86IyQ?controls=0&autoplay=1&loop=1&playlist=q86FZG86IyQ" frameborder="0" allow="modestbranding, accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />

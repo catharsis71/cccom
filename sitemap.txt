@@ -5,3 +5,4 @@ https://cracky-chan.com/sitemap.txt
 https://cracky-chan.com/sitemap.xml
 https://cracky-chan.com/robots.txt
 https://cracky-chan.com/her.jpg
+https://old.cracky-chan.com/

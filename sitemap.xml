@@ -6,33 +6,21 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Cracky-chan is gone and my life withers -->
 
-
 <url>
   <loc>https://cracky-chan.com/</loc>
-  <lastmod>2021-03-16T05:22:46+00:00</lastmod>
+  <lastmod>2021-03-23T16:00:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://cracky-chan.com/discord/</loc>
-  <lastmod>2021-03-16T05:22:46+00:00</lastmod>
+  <lastmod>2021-03-23T16:00:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://cracky-chan.com/404</loc>
-  <lastmod>2021-03-16T05:22:46+00:00</lastmod>
+  <loc>https://cracky-chan.com/links/</loc>
+  <lastmod>2021-03-23T16:00:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://cracky-chan.com/sitemap.txt</loc>
-  <lastmod>2021-03-16T05:22:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cracky-chan.com/sitemap.xml</loc>
-  <lastmod>2021-03-16T05:22:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 
 </urlset>

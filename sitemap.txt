@@ -10,3 +10,5 @@ https://cracky-chan.com/discord/INTERNET.jpg
 https://cracky-chan.com/links/crackylinks.jpg
 https://cracky-chan.com/pasta1.txt
 https://old.cracky-chan.com/
+https://old.cracky-chan.com/sitemap.xml
+https://old.cracky-chan.com/sitemap.website.xml

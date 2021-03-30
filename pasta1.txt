@@ -1638,3 +1638,5 @@ You'd be new, and yet the same. You'd touch people and they'd feel the serpents 
 Maybe it's good that you're not real. Maybe no innocent should harbor such terror and self-loathing. But then, who will save us?
 
 -------
+
+This is the end of pasta1.txt.  To be continued in pasta2a.txt

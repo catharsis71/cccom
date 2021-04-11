@@ -6,6 +6,7 @@ https://cracky-chan.com/sitemap.txt
 https://cracky-chan.com/sitemap.xml
 https://cracky-chan.com/robots.txt
 https://cracky-chan.com/her1.jpg
+https://cracky-chan.com/her1.webp
 https://cracky-chan.com/discord/INTERNET.jpg
 https://cracky-chan.com/links/crackylinks.jpg
 https://cracky-chan.com/pasta1.txt

@@ -8,8 +8,15 @@ https://cracky-chan.com/robots.txt
 https://cracky-chan.com/her1.jpg
 https://cracky-chan.com/her1.webp
 https://cracky-chan.com/discord/INTERNET.jpg
+https://cracky-chan.com/discord/INTERNET.webp
 https://cracky-chan.com/links/crackylinks.jpg
+https://cracky-chan.com/links/crackylinks.webp
 https://cracky-chan.com/pasta1.txt
 https://old.cracky-chan.com/
 https://old.cracky-chan.com/sitemap.xml
 https://old.cracky-chan.com/sitemap.website.xml
+https://ipv6.cracky-chan.com/
+https://ipv6.cracky-chan.com/robots.txt
+https://ipv6.cracky-chan.com/sitemap.txt
+https://ipv6.cracky-chan.com/her0.jpg
+https://ipv6.cracky-chan.com/her0.webp

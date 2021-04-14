@@ -25,3 +25,4 @@ https://catharsis.cracky-chan.com/robots.txt
 https://catharsis.cracky-chan.com/sitemap.txt
 https://catharsis.cracky-chan.com/pasta-index.txt
 https://catharsis.cracky-chan.com/404.html
+https://catharsis.cracky-chan.com/cgi-bin/classic.rb

@@ -20,6 +20,7 @@ https://ipv6.cracky-chan.com/robots.txt
 https://ipv6.cracky-chan.com/sitemap.txt
 https://ipv6.cracky-chan.com/her0.jpg
 https://ipv6.cracky-chan.com/her0.webp
+https://ipv6.cracky-chan.com/crackylogs/
 https://catharsis.cracky-chan.com/
 https://catharsis.cracky-chan.com/robots.txt
 https://catharsis.cracky-chan.com/sitemap.txt

@@ -1,4 +1,4 @@
-var pictureSrc = '/common/crotate.gif';
+var pictureSrc = 'https://cracky-chan.com/crotate.gif';
 var pictureWidth = 121
 var pictureHeight = 132;
 var numqueens = 20;

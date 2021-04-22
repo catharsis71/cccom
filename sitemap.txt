@@ -37,3 +37,4 @@ https://juice.cracky-chan.com/
 https://juice.cracky-chan.com/sitemap.xml
 https://juice.cracky-chan.com/robots.txt
 https://juice.cracky-chan.com/cgi-bin/classic.rb
+http://catharsis.cracky-chan.com:8181/

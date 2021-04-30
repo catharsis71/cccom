@@ -1,0 +1,16 @@
+https://catharsis.cracky-chan.com/common/hello.txt
+https://catharsis.cracky-chan.com/common/includes/
+https://catharsis.cracky-chan.com/common/includes/footer1
+https://catharsis.cracky-chan.com/common/includes/footer2
+https://catharsis.cracky-chan.com/common/includes/footer3
+https://catharsis.cracky-chan.com/common/includes/hello-again.txt
+https://catharsis.cracky-chan.com/common/includes/mirror
+https://catharsis.cracky-chan.com/hidden/hello.txt
+https://ipv6.cracky-chan.com/idiot.shtml
+https://ipv6.cracky-chan.com/obiwan.shtml
+https://ipv6.cracky-chan.com/files/crackypics/2005-January/gallery-images/
+https://ipv6.cracky-chan.com/files/crackypics/2004-December/gallery-images/
+https://ipv6.cracky-chan.com/common/
+https://juice.cracky-chan.com/common/
+http://bounceme.crackychan.org:8181/common/
+https://cracky-chan.com/junk-sitemap.txt

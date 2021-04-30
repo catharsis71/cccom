@@ -1,4 +1,4 @@
-Sitemap: https://cracky-chan.com/sitemap.txt
+﻿Sitemap: https://cracky-chan.com/sitemap.txt
 Sitemap: https://cracky-chan.com/sitemap.xml
 Sitemap: https://old.cracky-chan.com/sitemap.xml
 Sitemap: https://old.cracky-chan.com/sitemap.website.xml

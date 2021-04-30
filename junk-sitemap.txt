@@ -1,4 +1,4 @@
-https://catharsis.cracky-chan.com/common/hello.txt
+﻿https://catharsis.cracky-chan.com/common/hello.txt
 https://catharsis.cracky-chan.com/common/includes/
 https://catharsis.cracky-chan.com/common/includes/footer1
 https://catharsis.cracky-chan.com/common/includes/footer2

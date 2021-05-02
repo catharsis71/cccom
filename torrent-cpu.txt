@@ -1,6 +1,0 @@
-nox        14213  2.1 13.3 1163488 134960 ?      Ssl  09:22   7:00 /usr/bin/qbittorrent-nox --webui-port=65534
-
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-    904 debian-+  20   0  413228 145036   7664 S   0.0  14.3  12:03.27 tor
-  14213 nox       20   0 1163488 134960  17132 S   2.3  13.3   7:00.91 qbittorrent-nox

@@ -12,6 +12,8 @@ https://catharsis.cracky-chan.com/common/clock.webp
 https://catharsis.cracky-chan.com/common/crotate.gif
 https://catharsis.cracky-chan.com/common/favicon.ico
 https://catharsis.cracky-chan.com/hidden/hello.txt
+https://ipv6.cracky-chan.com/hidden/
+https://ipv6.cracky-chan.com/hidden/lol.txt
 https://ipv6.cracky-chan.com/idiot.shtml
 https://ipv6.cracky-chan.com/obiwan.shtml
 https://ipv6.cracky-chan.com/files/crackypics/2005-January/gallery-images/

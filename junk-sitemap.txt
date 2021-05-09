@@ -1,4 +1,4 @@
-﻿http://bounceme.crackychan.org:8181/common/
+﻿https://bounceme.crackychan.org:8181/common/
 https://catharsis.cracky-chan.com/_h5ai/public/cache/thumbs/index.php
 https://catharsis.cracky-chan.com/common/hello.txt
 https://catharsis.cracky-chan.com/common/includes/

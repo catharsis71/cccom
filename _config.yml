@@ -1,1 +1,3 @@
 ﻿theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-gallery-generator

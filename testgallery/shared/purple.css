@@ -1,0 +1,155 @@
+@import url("basic.css");
+
+p{
+    text-align:center;
+}
+
+a{
+    text-decoration:none;
+    color:purple;
+}
+
+#osize_links{
+    text-align:center;
+}
+
+#onum_links{
+    text-align:center;
+}
+
+h1{
+    display: none;
+}
+
+.inline_enum ul{
+    margin-left: 0;
+    padding-left: 0;
+    display: inline;
+}
+
+.inline_enum ul li {
+    margin-left: 0;
+    padding-left: 2px;
+    border: none;
+    list-style: none;
+    display: inline;
+}
+
+#breadcrumbs {
+    padding: 3px;
+    margin-bottom: 25px;
+    font-size: small;
+}
+
+#breadcrumbs ul li:after {
+    content: "\0020 \0020 \0020 \00BB \0020";
+}
+
+#breadcrumbs ul li.bc_current:after {
+    content: " ";
+}
+
+#osize_links ul li:after {
+    content: "   |";
+}
+
+#osize_links ul li:last-child:after {
+    content: " ";
+}
+
+#onum_links ul li:after {
+    content: "   |";
+}
+
+#onum_links ul li:last-child:after {
+    content: " ";
+}
+
+div.subgal_link {
+    float: left;
+    padding: 1em;
+    width: 50em;
+}
+
+div.subgal_image {
+    float: left;
+    margin-right: 2em;
+    margin-left: 4em;
+    width:180px;
+}
+
+div.subgal_image img {
+    margin: 0;
+    border: none;
+}
+
+div.subgal_description p{
+    text-align:justify;
+}
+
+div.subgal_stats{
+    font-size: x-small;
+}
+
+#subgal_links li {
+    margin: 0.5em;
+}
+
+.media_links p{
+    text-align:justify;
+}
+
+.media_links{
+    padding-left:7em;
+    padding-right:7em;
+}
+
+.prevnext_text {
+    display: none;
+}
+
+#prev_link{
+    position:absolute;
+    top:50%;
+    left:0.1em;
+}
+
+#next_link{
+    position:absolute;
+    top:50%;
+    right:0.1em;
+}
+
+img {
+    border:solid black 1px;
+    margin:1em;
+}
+
+.image_caption li{
+    list-style-type:none;
+    text-align:center;
+}
+
+.image_caption_tech{
+    display:none;
+}
+
+.footer{
+    padding-top:3em;
+    clear:both;
+    font-size:x-small;
+}
+
+.footer p{
+    text-align:justify;
+}
+
+#lazygalfooter{
+    padding-top:0em;
+    margin-top:0.2em;
+    border-top: solid black 1px;
+}
+
+/*
+ * vim: ts=4 sw=4 expandtab
+ */

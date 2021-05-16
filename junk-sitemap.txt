@@ -2,11 +2,7 @@
 https://bounceme.crackychan.org:8181/testgallery/twg_album/cracky1
 https://bounceme.crackychan.org:8181/testgallery/twg_album/cracky2
 https://catharsis.cracky-chan.com/_h5ai/public/cache/thumbs/
-https://catharsis.cracky-chan.com/common/includes/
-https://catharsis.cracky-chan.com/common/includes/hello-again.txt
 https://catharsis.cracky-chan.com/hidden/hello.txt
-https://catharsis.cracky-chan.com/testgallery/cracky1/
-https://catharsis.cracky-chan.com/testgallery/cracky2/
 https://cracky-chan.com/README.md
 https://cracky-chan.com/crapgallery/
 https://cracky-chan.com/enemy-list.txt

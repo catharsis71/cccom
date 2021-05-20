@@ -5,7 +5,8 @@ https://catharsis.cracky-chan.com/hidden/hello.txt
 https://catharsis.cracky-chan.com/testgallery/cracky1.html
 https://catharsis.cracky-chan.com/testgallery/cracky2.html
 https://cracky-chan.com/README.md
-https://cracky-chan.com/crapgallery/
+https://cracky-chan.com/crapgallery/cracky1.html
+https://cracky-chan.com/crapgallery/cracky2.html
 https://cracky-chan.com/enemy-list.txt
 https://cracky-chan.com/junk-sitemap.txt
 https://cracky-chan.com/tk-sitemap-test.txt

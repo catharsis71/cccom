@@ -86,6 +86,8 @@ https://dear-olivia-mirror.crackychan.org/robots.txt
 https://dear-olivia-mirror.crackychan.org/sitemap.txt
 https://dear-olivia-mirror.crackychan.org/songs/
 https://dear-olivia-mirror.crackychan.org/songs/Hikikomori_Girl.rtf
+https://dear-olivia-mirror.crackychan.org/songs/Summer_Jam.rtf
+https://dear-olivia-mirror.crackychan.org/songs/Version_20.rtf
 https://dear-olivia-mirror.crackychan.org/songs/albumfiles/
 https://dear-olivia-mirror.crackychan.org/songs/misc/
 https://dear-olivia-mirror.crackychan.org/songs/the_comeback.rtf

@@ -156,12 +156,12 @@ https://juice.cracky-chan.com/robots.txt
 https://juice.cracky-chan.com/sitemap.xml
 https://kamistik.com/
 https://kamistik.com/404
+https://kamistik.com/gallery1a/
+https://kamistik.com/gallery1a/photos/cracky1/
+https://kamistik.com/gallery1a/photos/cracky2/
 https://kamistik.com/pasta2a.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
-https://kamistik.com/testgallery/
-https://kamistik.com/testgallery/photos/cracky1/
-https://kamistik.com/testgallery/photos/cracky2/
 https://old.cracky-chan.com/
 https://old.cracky-chan.com/sitemap.website.xml
 https://old.cracky-chan.com/sitemap.xml

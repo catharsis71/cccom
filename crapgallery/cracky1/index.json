@@ -1,1 +1,208 @@
-{"config": {"webgal": {"default-style": "default", "webalbumpic-bg": "transparent", "webalbumpic-type": "messy", "webalbumpic-size": "200x150", "image-size": [{"name": "small", "defs": "800x600", "default": true}, {"name": "medium", "defs": "1024x768"}], "thumbnail-size": "150x113", "video-size": "0x0", "thumbs-per-page": 0, "filter-by-tag": [], "sort-medias": {"order": "exif", "reverse": false}, "sort-subgals": {"order": "dirname", "reverse": false}, "original": false, "original-baseurl": false, "original-symlink": false, "dirzip": false, "jpeg-quality": 85, "jpeg-optimize": true, "jpeg-progressive": true, "publish-metadata": true, "keep-gps": false}}, "count": {"media": 14, "image": 14, "video": 0, "subgal": 0}, "medias": {"d01.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d02.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-04-16T18:11:10", "metadata": {"Exif.Photo.DateTimeOriginal": "0000:00:00 00:00:00", "Exif.Photo.DateTimeDigitized": "0000:00:00 00:00:00", "Exif.Image.DateTime": "0000:00:00 00:00:00"}, "comment": "OLYMPUS DIGITAL CAMERA         "}, "d03.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d04.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-04-16T18:11:10", "metadata": {"Exif.Photo.DateTimeOriginal": "0000:00:00 00:00:00", "Exif.Photo.DateTimeDigitized": "0000:00:00 00:00:00", "Exif.Image.DateTime": "0000:00:00 00:00:00"}, "comment": "OLYMPUS DIGITAL CAMERA         "}, "d05.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d06.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d07.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {"Exif.Photo.DateTimeOriginal": "0000:00:00 00:00:00", "Exif.Photo.DateTimeDigitized": "0000:00:00 00:00:00", "Exif.Image.DateTime": "0000:00:00 00:00:00"}, "comment": "OLYMPUS DIGITAL CAMERA         "}, "d08.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-04-16T18:11:10", "metadata": {"Exif.Photo.DateTimeOriginal": "0000:00:00 00:00:00", "Exif.Photo.DateTimeDigitized": "0000:00:00 00:00:00", "Exif.Image.DateTime": "0000:00:00 00:00:00"}, "comment": "OLYMPUS DIGITAL CAMERA         "}, "d09.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d10.jpg": {"type": "image", "width": 480, "height": 640, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d11.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d12.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d13.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}, "d14.jpg": {"type": "image", "width": 640, "height": 480, "date": "2021-05-11T11:36:18", "metadata": {}, "comment": ""}}, "subgals": [], "all_count": {"media": 14, "image": 14, "video": 0}}
+{
+  "config":{
+    "webgal":{
+      "default-style":"default",
+      "webalbumpic-bg":"transparent",
+      "webalbumpic-type":"messy",
+      "webalbumpic-size":"200x150",
+      "image-size":[
+        {
+          "name":"small",
+          "defs":"800x600",
+          "default":true
+        },
+        {
+          "name":"medium",
+          "defs":"1024x768"
+        }
+      ],
+      "thumbnail-size":"150x113",
+      "video-size":"0x0",
+      "thumbs-per-page":0,
+      "filter-by-tag":[
+        
+      ],
+      "sort-medias":{
+        "order":"exif",
+        "reverse":false
+      },
+      "sort-subgals":{
+        "order":"dirname",
+        "reverse":false
+      },
+      "original":false,
+      "original-baseurl":false,
+      "original-symlink":false,
+      "dirzip":false,
+      "jpeg-quality":85,
+      "jpeg-optimize":true,
+      "jpeg-progressive":true,
+      "publish-metadata":true,
+      "keep-gps":false
+    }
+  },
+  "count":{
+    "media":14,
+    "image":14,
+    "video":0,
+    "subgal":0
+  },
+  "medias":{
+    "d01.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d02.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-04-16T18:11:10",
+      "metadata":{
+        "Exif.Photo.DateTimeOriginal":"0000:00:00 00:00:00",
+        "Exif.Photo.DateTimeDigitized":"0000:00:00 00:00:00",
+        "Exif.Image.DateTime":"0000:00:00 00:00:00"
+      },
+      "comment":"OLYMPUS DIGITAL CAMERA         "
+    },
+    "d03.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d04.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-04-16T18:11:10",
+      "metadata":{
+        "Exif.Photo.DateTimeOriginal":"0000:00:00 00:00:00",
+        "Exif.Photo.DateTimeDigitized":"0000:00:00 00:00:00",
+        "Exif.Image.DateTime":"0000:00:00 00:00:00"
+      },
+      "comment":"OLYMPUS DIGITAL CAMERA         "
+    },
+    "d05.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d06.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d07.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        "Exif.Photo.DateTimeOriginal":"0000:00:00 00:00:00",
+        "Exif.Photo.DateTimeDigitized":"0000:00:00 00:00:00",
+        "Exif.Image.DateTime":"0000:00:00 00:00:00"
+      },
+      "comment":"OLYMPUS DIGITAL CAMERA         "
+    },
+    "d08.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-04-16T18:11:10",
+      "metadata":{
+        "Exif.Photo.DateTimeOriginal":"0000:00:00 00:00:00",
+        "Exif.Photo.DateTimeDigitized":"0000:00:00 00:00:00",
+        "Exif.Image.DateTime":"0000:00:00 00:00:00"
+      },
+      "comment":"OLYMPUS DIGITAL CAMERA         "
+    },
+    "d09.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d10.jpg":{
+      "type":"image",
+      "width":480,
+      "height":640,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d11.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d12.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d13.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    },
+    "d14.jpg":{
+      "type":"image",
+      "width":640,
+      "height":480,
+      "date":"2021-05-11T11:36:18",
+      "metadata":{
+        
+      },
+      "comment":""
+    }
+  },
+  "subgals":[
+    
+  ],
+  "all_count":{
+    "media":14,
+    "image":14,
+    "video":0
+  }
+}

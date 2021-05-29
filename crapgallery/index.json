@@ -1,1 +1,62 @@
-{"config": {"webgal": {"default-style": "default", "webalbumpic-bg": "transparent", "webalbumpic-type": "messy", "webalbumpic-size": "200x150", "image-size": [{"name": "small", "defs": "800x600", "default": true}, {"name": "medium", "defs": "1024x768"}], "thumbnail-size": "150x113", "video-size": "0x0", "thumbs-per-page": 0, "filter-by-tag": [], "sort-medias": {"order": "exif", "reverse": false}, "sort-subgals": {"order": "dirname", "reverse": false}, "original": false, "original-baseurl": false, "original-symlink": false, "dirzip": false, "jpeg-quality": 85, "jpeg-optimize": true, "jpeg-progressive": true, "publish-metadata": true, "keep-gps": false}}, "count": {"media": 0, "image": 0, "video": 0, "subgal": 2}, "medias": {}, "subgals": ["cracky1", "cracky2"], "all_count": {"media": 37, "image": 37, "video": 0}}
+{
+  "config":{
+    "webgal":{
+      "default-style":"default",
+      "webalbumpic-bg":"transparent",
+      "webalbumpic-type":"messy",
+      "webalbumpic-size":"200x150",
+      "image-size":[
+        {
+          "name":"small",
+          "defs":"800x600",
+          "default":true
+        },
+        {
+          "name":"medium",
+          "defs":"1024x768"
+        }
+      ],
+      "thumbnail-size":"150x113",
+      "video-size":"0x0",
+      "thumbs-per-page":0,
+      "filter-by-tag":[
+        
+      ],
+      "sort-medias":{
+        "order":"exif",
+        "reverse":false
+      },
+      "sort-subgals":{
+        "order":"dirname",
+        "reverse":false
+      },
+      "original":false,
+      "original-baseurl":false,
+      "original-symlink":false,
+      "dirzip":false,
+      "jpeg-quality":85,
+      "jpeg-optimize":true,
+      "jpeg-progressive":true,
+      "publish-metadata":true,
+      "keep-gps":false
+    }
+  },
+  "count":{
+    "media":0,
+    "image":0,
+    "video":0,
+    "subgal":2
+  },
+  "medias":{
+    
+  },
+  "subgals":[
+    "cracky1",
+    "cracky2"
+  ],
+  "all_count":{
+    "media":40,
+    "image":40,
+    "video":0
+  }
+}

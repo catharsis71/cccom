@@ -1,7 +1,7 @@
 @import url("basic.css");
 
 
-
+body {background: url(/crapgallery/background.webp) center center no-repeat; background-size: cover; background-attachment: fixed;}
 
 
 p{

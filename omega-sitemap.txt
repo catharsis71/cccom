@@ -38,6 +38,9 @@ https://cracky-chan.com/crapgallery/cracky1.html
 https://cracky-chan.com/crapgallery/cracky2.html
 https://cracky-chan.com/discord/
 https://cracky-chan.com/enemy-list.txt
+https://cracky-chan.com/gallery1/
+https://cracky-chan.com/gallery1/index000.html
+https://cracky-chan.com/gallery1/index001.html
 https://cracky-chan.com/links/
 https://cracky-chan.com/omega-sitemap.txt
 https://cracky-chan.com/omega-sitemap/
@@ -45,9 +48,6 @@ https://cracky-chan.com/pasta1.txt
 https://cracky-chan.com/robots.txt
 https://cracky-chan.com/sitemap.txt
 https://cracky-chan.com/sitemap.xml
-https://cracky-chan.com/testgallery/
-https://cracky-chan.com/testgallery/index000.html
-https://cracky-chan.com/testgallery/index001.html
 https://cracky-chan.tk/
 https://cracky-chan.tk/404
 https://cracky-chan.tk/crapgallery/
@@ -61,10 +61,10 @@ https://cracky-chan.tk/sitemap.txt
 https://crackychan.org/
 https://crackychan.org/404
 https://crackychan.org/alex.txt
+https://crackychan.org/gallery3/
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
-https://crackychan.org/testgallery/
 https://dear-olivia-mirror.crackychan.org/
 https://dear-olivia-mirror.crackychan.org/archive.txt
 https://dear-olivia-mirror.crackychan.org/cgi-bin/classic.rb
@@ -156,9 +156,9 @@ https://juice.cracky-chan.com/robots.txt
 https://juice.cracky-chan.com/sitemap.xml
 https://kamistik.com/
 https://kamistik.com/404
-https://kamistik.com/gallery1a/
-https://kamistik.com/gallery1a/photos/cracky1/
-https://kamistik.com/gallery1a/photos/cracky2/
+https://kamistik.com/gallery2a/
+https://kamistik.com/gallery2a/photos/cracky1/
+https://kamistik.com/gallery2a/photos/cracky2/
 https://kamistik.com/pasta2a.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
@@ -187,8 +187,8 @@ https://photobuckets.kamistik.com/scarecrowmaiden/
 https://photobuckets.kamistik.com/sitemap.xml
 https://wish.kamistik.com/
 https://wish.kamistik.com/404
+https://wish.kamistik.com/gallery2b/
 https://wish.kamistik.com/irc-log-clips.txt
 https://wish.kamistik.com/pasta2b.txt
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
-https://wish.kamistik.com/testgallery/

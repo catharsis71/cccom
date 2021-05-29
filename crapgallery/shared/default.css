@@ -3,9 +3,9 @@
 
 body {background: url(/crapgallery/background.webp) center center no-repeat; background-size: cover; background-attachment: fixed;}
 
-.image_caption {background-color:rgba(200,200,200,0.8)}
+#image_caption {background-color:rgba(200,200,200,0.8)}
 
-.lazygalfooter {background-color:rgba(200,200,200,0.8)}
+#lazygalfooter {background-color:rgba(200,200,200,0.8)}
 
 
 p{

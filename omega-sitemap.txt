@@ -161,10 +161,10 @@ https://juice.cracky-chan.com/robots.txt
 https://juice.cracky-chan.com/sitemap.xml
 https://kamistik.com/
 https://kamistik.com/404
-https://kamistik.com/gallery2a/
-https://kamistik.com/gallery2a/photos/cracky1/
-https://kamistik.com/gallery2a/photos/cracky2/
-https://kamistik.com/pasta2a.txt
+https://kamistik.com/gallery2/
+https://kamistik.com/gallery2/photos/cracky1/
+https://kamistik.com/gallery2/photos/cracky2/
+https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
 https://old.cracky-chan.com/

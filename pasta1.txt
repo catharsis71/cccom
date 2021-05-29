@@ -1639,4 +1639,4 @@ Maybe it's good that you're not real. Maybe no innocent should harbor such terro
 
 -------
 
-This is the end of pasta1.txt.  To be continued in pasta2a.txt
+This is the end of pasta1.txt.  To be continued in pasta2.txt (formerly known as pasta2a)

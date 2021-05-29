@@ -11,6 +11,6 @@ Sitemap: https://juice.cracky-chan.com/sitemap.xml
 User-agent: *
 Disallow: /crapgallery/cracky1/
 Disallow: /crapgallery/cracky2/
-Disallow: /testgallery/imgpages/
+Disallow: /gallery1/imgpages/
 
 #She's so fucking cute and sweet

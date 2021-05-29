@@ -33,9 +33,6 @@ https://catharsis.cracky-chan.com/testgallery/cracky2.html
 https://cracky-chan.com/
 https://cracky-chan.com/404
 https://cracky-chan.com/README.md
-https://cracky-chan.com/crapgallery/
-https://cracky-chan.com/crapgallery/cracky1.html
-https://cracky-chan.com/crapgallery/cracky2.html
 https://cracky-chan.com/discord/
 https://cracky-chan.com/enemy-list.txt
 https://cracky-chan.com/gallery1/
@@ -141,6 +138,14 @@ https://ipv6.cracky-chan.com/obiwan.shtml
 https://ipv6.cracky-chan.com/robots.txt
 https://ipv6.cracky-chan.com/sitemap.txt
 https://ipv6.cracky-chan.com/sitemap.xml
+https://jemnezymy.com/
+https://jemnezymy.com/404
+https://jemnezymy.com/gallery5/
+https://jemnezymy.com/gallery5/cracky1.html
+https://jemnezymy.com/gallery5/cracky2.html
+https://jemnezymy.com/pasta5.txt
+https://jemnezymy.com/robots.txt
+https://jemnezymy.com/sitemap.txt
 https://juice.cracky-chan.com/
 https://juice.cracky-chan.com/audio-only/
 https://juice.cracky-chan.com/brightened/

@@ -22,7 +22,6 @@ https://catharsis.cracky-chan.com/common/501.shtml
 https://catharsis.cracky-chan.com/hidden/
 https://catharsis.cracky-chan.com/hidden/hello.txt
 https://catharsis.cracky-chan.com/hidden/pasta-index.txt
-https://catharsis.cracky-chan.com/pasta-index.txt
 https://catharsis.cracky-chan.com/perl/infinite-catharsis.pl
 https://catharsis.cracky-chan.com/robots.txt
 https://catharsis.cracky-chan.com/sitemap.txt

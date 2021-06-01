@@ -54,6 +54,13 @@ https://cracky-chan.tk/pasta4.txt
 https://cracky-chan.tk/response-from-her.txt
 https://cracky-chan.tk/robots.txt
 https://cracky-chan.tk/sitemap.txt
+https://crackychan.net/
+https://crackychan.net/404
+https://crackychan.net/gallery2b/
+https://crackychan.net/irc-log-clips.txt
+https://crackychan.net/pasta2b.txt
+https://crackychan.net/robots.txt
+https://crackychan.net/sitemap.txt
 https://crackychan.org/
 https://crackychan.org/404
 https://crackychan.org/alex.txt
@@ -189,10 +196,3 @@ https://photobuckets.kamistik.com/pheelie/
 https://photobuckets.kamistik.com/robots.txt
 https://photobuckets.kamistik.com/scarecrowmaiden/
 https://photobuckets.kamistik.com/sitemap.xml
-https://wish.kamistik.com/
-https://wish.kamistik.com/404
-https://wish.kamistik.com/gallery2b/
-https://wish.kamistik.com/irc-log-clips.txt
-https://wish.kamistik.com/pasta2b.txt
-https://wish.kamistik.com/robots.txt
-https://wish.kamistik.com/sitemap.txt

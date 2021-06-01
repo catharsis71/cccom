@@ -23,10 +23,6 @@ https://ipv6.cracky-chan.com/files/
 https://ipv6.cracky-chan.com/robots.txt
 https://ipv6.cracky-chan.com/sitemap.txt
 https://ipv6.cracky-chan.com/sitemap.xml
-https://juice.cracky-chan.com/
-https://juice.cracky-chan.com/cgi-bin/classic.rb
-https://juice.cracky-chan.com/robots.txt
-https://juice.cracky-chan.com/sitemap.xml
 https://old.cracky-chan.com/
 https://old.cracky-chan.com/sitemap.website.xml
 https://old.cracky-chan.com/sitemap.xml

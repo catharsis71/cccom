@@ -1,8 +1,6 @@
 https://catharsis.cracky-chan.com/
 https://catharsis.cracky-chan.com/cgi-bin/classic.rb
 https://catharsis.cracky-chan.com/common/
-https://catharsis.cracky-chan.com/hidden/
-https://catharsis.cracky-chan.com/hidden/pasta-index.html
 https://catharsis.cracky-chan.com/hidden/pasta-index.txt
 https://catharsis.cracky-chan.com/perl/infinite-catharsis.pl
 https://catharsis.cracky-chan.com/robots.txt

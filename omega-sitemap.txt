@@ -207,3 +207,7 @@ https://photobuckets.kamistik.com/pheelie/
 https://photobuckets.kamistik.com/robots.txt
 https://photobuckets.kamistik.com/scarecrowmaiden/
 https://photobuckets.kamistik.com/sitemap.xml
+https://ipv6.cracky-chan.com/files/important-threads/_threadfiles/other/
+https://ipv6.cracky-chan.com/files/important-threads/_threadfiles/bounceme/
+https://ipv6.cracky-chan.com/files/important-threads/_threadfiles/420chan-restoration/
+https://ipv6.cracky-chan.com/files/misc/fridge/

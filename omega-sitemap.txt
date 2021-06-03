@@ -41,6 +41,7 @@ https://cracky-chan.com/gallery1/index001.html
 https://cracky-chan.com/links/
 https://cracky-chan.com/omega-sitemap.txt
 https://cracky-chan.com/omega-sitemap/
+https://cracky-chan.com/pasta1
 https://cracky-chan.com/pasta1.txt
 https://cracky-chan.com/robots.txt
 https://cracky-chan.com/sitemap.txt
@@ -51,6 +52,7 @@ https://cracky-chan.tk/crapgallery/
 https://cracky-chan.tk/crapgallery/cracky1/
 https://cracky-chan.tk/crapgallery/cracky2/
 https://cracky-chan.tk/gallery4/
+https://cracky-chan.tk/pasta4
 https://cracky-chan.tk/pasta4.txt
 https://cracky-chan.tk/response-from-her
 https://cracky-chan.tk/response-from-her.txt
@@ -61,6 +63,7 @@ https://crackychan.net/404
 https://crackychan.net/gallery6/
 https://crackychan.net/irc-log-clips
 https://crackychan.net/irc-log-clips.txt
+https://crackychan.net/pasta6
 https://crackychan.net/pasta6.txt
 https://crackychan.net/robots.txt
 https://crackychan.net/sitemap.txt
@@ -69,6 +72,7 @@ https://crackychan.org/404
 https://crackychan.org/alex
 https://crackychan.org/alex.txt
 https://crackychan.org/gallery3/
+https://crackychan.org/pasta3
 https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
@@ -164,6 +168,7 @@ https://jemnezymy.com/404
 https://jemnezymy.com/gallery5/
 https://jemnezymy.com/gallery5/cracky1
 https://jemnezymy.com/gallery5/cracky2
+https://jemnezymy.com/pasta5
 https://jemnezymy.com/pasta5.txt
 https://jemnezymy.com/robots.txt
 https://jemnezymy.com/sitemap.txt
@@ -185,6 +190,7 @@ https://kamistik.com/404
 https://kamistik.com/gallery2/
 https://kamistik.com/gallery2/photos/cracky1/
 https://kamistik.com/gallery2/photos/cracky2/
+https://kamistik.com/pasta2
 https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt

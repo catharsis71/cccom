@@ -20,7 +20,6 @@ https://catharsis.cracky-chan.com/common/421.shtml
 https://catharsis.cracky-chan.com/common/500.shtml
 https://catharsis.cracky-chan.com/common/501.shtml
 https://catharsis.cracky-chan.com/hidden/
-https://catharsis.cracky-chan.com/hidden/hello.txt
 https://catharsis.cracky-chan.com/hidden/pasta-index.html
 https://catharsis.cracky-chan.com/hidden/pasta-index.txt
 https://catharsis.cracky-chan.com/perl/infinite-catharsis.pl

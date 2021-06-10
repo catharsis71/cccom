@@ -152,6 +152,8 @@ https://fanart.crackychan.net/cosplay/from-crackypedia/
 https://fanart.crackychan.net/cosplay/from-dear-olivia/
 https://fanart.crackychan.net/misc/
 https://fanart.crackychan.net/misc/fridge/
+https://fanart.crackychan.net/misc/inkscape/
+https://fanart.crackychan.net/misc/ugly/
 https://fanart.crackychan.net/robots.txt
 https://fanart.crackychan.net/sitemap.xml
 https://fanart.crackychan.net/video/
@@ -208,7 +210,6 @@ https://ipv6.cracky-chan.com/files/misc/camel/
 https://ipv6.cracky-chan.com/files/misc/empty/
 https://ipv6.cracky-chan.com/files/misc/fridge/
 https://ipv6.cracky-chan.com/files/misc/iphone-ringtones/
-https://ipv6.cracky-chan.com/hidden/lol.txt
 https://ipv6.cracky-chan.com/idiot.shtml
 https://ipv6.cracky-chan.com/obiwan.shtml
 https://ipv6.cracky-chan.com/robots.txt

@@ -107,6 +107,7 @@ https://crackypedia.cracky-chan.tk/php-art/
 https://crackypedia.cracky-chan.tk/php-original/
 https://crackypedia.cracky-chan.tk/robots.txt
 https://crackypedia.cracky-chan.tk/sitemap.txt
+https://crackypedia.cracky-chan.tk/sitemap.xml
 https://crackypedia.cracky-chan.tk/this/
 https://dear-olivia-mirror.crackychan.org/
 https://dear-olivia-mirror.crackychan.org/archive.txt

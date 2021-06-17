@@ -32,7 +32,7 @@
           { type: "textarea",
             label: "What's your whole deal:",
             name: "message",
-            placeholder: "my life withers",
+            placeholder: "if you want a response please include a valid e-mail address",
             required: true },
           { type: "checkbox", 
             label: "Cute", 

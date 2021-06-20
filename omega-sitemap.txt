@@ -161,7 +161,6 @@ https://fanart.crackychan.net/cosplay/people/
 https://fanart.crackychan.net/cosplay/submissions/
 https://fanart.crackychan.net/robots.txt
 https://fanart.crackychan.net/sitemap.xml
-https://fanart.crackychan.net/submit/
 https://fanart.crackychan.net/unsorted/
 https://fanart.crackychan.net/video/
 https://ipv6.cracky-chan.com/

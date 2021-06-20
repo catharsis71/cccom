@@ -212,10 +212,12 @@ https://ipv6.cracky-chan.com/files/misc/
 https://ipv6.cracky-chan.com/files/misc/alexbook/
 https://ipv6.cracky-chan.com/files/misc/alexbook/Stephanie_pps_1-55.doc
 https://ipv6.cracky-chan.com/files/misc/alexbook/Stephanie_pps_1-55.odt
+https://ipv6.cracky-chan.com/files/misc/alexbook/html/
 https://ipv6.cracky-chan.com/files/misc/camel/
 https://ipv6.cracky-chan.com/files/misc/empty/
 https://ipv6.cracky-chan.com/files/misc/fridge/
 https://ipv6.cracky-chan.com/files/misc/iphone-ringtones/
+https://ipv6.cracky-chan.com/files/misc/somewhere/
 https://ipv6.cracky-chan.com/idiot.shtml
 https://ipv6.cracky-chan.com/obiwan.shtml
 https://ipv6.cracky-chan.com/robots.txt
@@ -241,6 +243,7 @@ https://juice.jemnezymy.com/derp/
 https://juice.jemnezymy.com/frames/
 https://juice.jemnezymy.com/frames/original/
 https://juice.jemnezymy.com/frames/png/
+https://juice.jemnezymy.com/gif/
 https://juice.jemnezymy.com/robots.txt
 https://juice.jemnezymy.com/sitemap.xml
 https://kamistik.com/

@@ -7,7 +7,4 @@ Sitemap: https://ipv6.cracky-chan.com/sitemap.xml
 Sitemap: https://catharsis.cracky-chan.com/sitemap.txt
 Sitemap: https://catharsis.cracky-chan.com/sitemap.xml
 
-User-agent: *
-Disallow: /gallery1/imgpages/
-
 #She's so fucking cute and sweet

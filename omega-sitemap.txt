@@ -1,8 +1,3 @@
-http://[2a04:dd00:16:7:195:242:99:71]/
-http://[2a04:dd00:16:7:195:242:99:71]/board/
-http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
-http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
-http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
 https://birthday.crackychan.org/
 https://birthday.crackychan.org/cgi-bin/classic.rb
 https://birthday.crackychan.org/robots.txt
@@ -173,6 +168,7 @@ https://fanart.crackychan.net/art/from-dear-olivia/
 https://fanart.crackychan.net/art/from-fb-fanpage/
 https://fanart.crackychan.net/art/sets/
 https://fanart.crackychan.net/art/sets/distorted/
+https://fanart.crackychan.net/art/sets/dollmaker-picrew/
 https://fanart.crackychan.net/art/sets/dreamscope/
 https://fanart.crackychan.net/art/sets/fridge/
 https://fanart.crackychan.net/art/sets/inkscape/
@@ -319,3 +315,8 @@ https://photobuckets.kamistik.com/random/
 https://photobuckets.kamistik.com/robots.txt
 https://photobuckets.kamistik.com/scarecrowmaiden/
 https://photobuckets.kamistik.com/sitemap.xml
+http://[2a04:dd00:16:7:195:242:99:71]/
+http://[2a04:dd00:16:7:195:242:99:71]/board/
+http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
+http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
+http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt

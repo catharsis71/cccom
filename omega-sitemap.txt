@@ -146,6 +146,7 @@ https://dear-olivia.com/dearolivia-files/songs/albumfiles/
 https://dear-olivia.com/dearolivia-files/songs/misc/
 https://dear-olivia.com/dearolivia-files/songs/the_comeback.rtf
 https://dear-olivia.com/olivia/
+https://dear-olivia.com/relaunch.txt
 https://dear-olivia.com/robots.txt
 https://dear-olivia.com/sitemap.txt
 https://dear-olivia.com/submit/

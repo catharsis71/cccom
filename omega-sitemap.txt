@@ -324,6 +324,12 @@ https://photobuckets.kamistik.com/random/
 https://photobuckets.kamistik.com/robots.txt
 https://photobuckets.kamistik.com/scarecrowmaiden/
 https://photobuckets.kamistik.com/sitemap.xml
+https://wish.kamistik.com/
+https://wish.kamistik.com/404
+https://wish.kamistik.com/nope.txt
+https://wish.kamistik.com/robots.txt
+https://wish.kamistik.com/sitemap.txt
+https://youtube.cracky-chan.tk/
 http://[2a04:dd00:16:7:195:242:99:71]/
 http://[2a04:dd00:16:7:195:242:99:71]/board/
 http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb

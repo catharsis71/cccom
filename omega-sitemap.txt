@@ -336,6 +336,7 @@ https://photobuckets.kamistik.com/sitemap.xml
 https://wish.kamistik.com/
 https://wish.kamistik.com/404
 https://wish.kamistik.com/nope.txt
+https://wish.kamistik.com/rightframe
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
 https://youtube.cracky-chan.tk/

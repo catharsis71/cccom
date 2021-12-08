@@ -339,7 +339,15 @@ https://old.cracky-chan.com/sitemap.website.xml
 https://old.cracky-chan.com/sitemap.xml
 https://photobuckets.kamistik.com/
 https://photobuckets.kamistik.com/7eventeen/
+https://photobuckets.kamistik.com/7eventeen/one/
 https://photobuckets.kamistik.com/cgi-bin/classic.rb
+https://photobuckets.kamistik.com/delicious_cake/
+https://photobuckets.kamistik.com/delicious_cake/andromeka/
+https://photobuckets.kamistik.com/delicious_cake/deleriumm/
+https://photobuckets.kamistik.com/delicious_cake/euphorium/
+https://photobuckets.kamistik.com/delicious_cake/iokastia/
+https://photobuckets.kamistik.com/delicious_cake/lileith/
+https://photobuckets.kamistik.com/delicious_cake/pandemonium/
 https://photobuckets.kamistik.com/jemnezymy/
 https://photobuckets.kamistik.com/jemnezymy/cute/
 https://photobuckets.kamistik.com/jemnezymy/fan/
@@ -356,6 +364,7 @@ https://photobuckets.kamistik.com/other/
 https://photobuckets.kamistik.com/pheelie/
 https://photobuckets.kamistik.com/pheelie/asylum/
 https://photobuckets.kamistik.com/pheelie/blackberry/
+https://photobuckets.kamistik.com/pheelie/braindamage/
 https://photobuckets.kamistik.com/pheelie/burnedchildren/
 https://photobuckets.kamistik.com/pheelie/chocolate/
 https://photobuckets.kamistik.com/pheelie/dreams/
@@ -368,8 +377,10 @@ https://photobuckets.kamistik.com/pheelie/marshmellow/
 https://photobuckets.kamistik.com/pheelie/mima/
 https://photobuckets.kamistik.com/pheelie/more/
 https://photobuckets.kamistik.com/pheelie/more/candy/
+https://photobuckets.kamistik.com/pheelie/neko/
 https://photobuckets.kamistik.com/pheelie/root/
 https://photobuckets.kamistik.com/pheelie/root/these-were-probably-here-too/
+https://photobuckets.kamistik.com/pheelie/strawberry/
 https://photobuckets.kamistik.com/pheelie/tofu/
 https://photobuckets.kamistik.com/pheelie/trash/
 https://photobuckets.kamistik.com/random/

@@ -158,12 +158,14 @@ https://fanart.crackychan.net/
 https://fanart.crackychan.net/art/
 https://fanart.crackychan.net/art/artists/
 https://fanart.crackychan.net/art/artists/JPG/
+https://fanart.crackychan.net/art/artists/brokenpiba/
 https://fanart.crackychan.net/art/artists/hodgepodge/
 https://fanart.crackychan.net/art/artists/hodgepodge/drawings/
 https://fanart.crackychan.net/art/artists/hodgepodge/photography/
 https://fanart.crackychan.net/art/artists/hodgepodge/wisdom/
 https://fanart.crackychan.net/art/artists/kanchi/
 https://fanart.crackychan.net/art/artists/krimsonjones/
+https://fanart.crackychan.net/art/artists/olivia/
 https://fanart.crackychan.net/art/artists/santi/
 https://fanart.crackychan.net/art/artists/streetlights/
 https://fanart.crackychan.net/art/artists/streetlights/collage-scrapbook/
@@ -319,6 +321,7 @@ https://juice.jemnezymy.com/brightened/2/
 https://juice.jemnezymy.com/brightened/frames/
 https://juice.jemnezymy.com/cgi-bin/classic.rb
 https://juice.jemnezymy.com/derp/
+https://juice.jemnezymy.com/extra/
 https://juice.jemnezymy.com/frames/
 https://juice.jemnezymy.com/frames/original/
 https://juice.jemnezymy.com/frames/png/

@@ -1,3 +1,8 @@
+http://[2a04:dd00:16:7:195:242:99:71]/
+http://[2a04:dd00:16:7:195:242:99:71]/board/
+http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
+http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
+http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
 http://crackychan.bounceme.net/
 http://crackychan.bounceme.net/cgi-bin/classic.rb
 http://crackychan.bounceme.net/robots.txt
@@ -15,6 +20,7 @@ https://bounceme.crackychan.net:8181/testgallery/twg_album/cracky1
 https://bounceme.crackychan.net:8181/testgallery/twg_album/cracky2
 https://catharsis.cracky-chan.com/
 https://catharsis.cracky-chan.com/_h5ai/public/cache/thumbs/
+https://catharsis.cracky-chan.com/_h5ai/public/cache/thumbs/old-2021/
 https://catharsis.cracky-chan.com/cgi-bin/classic.rb
 https://catharsis.cracky-chan.com/common/
 https://catharsis.cracky-chan.com/common/400.shtml
@@ -225,6 +231,8 @@ https://fanart.crackychan.net/random/
 https://fanart.crackychan.net/robots.txt
 https://fanart.crackychan.net/sitemap.xml
 https://fanart.crackychan.net/unsorted/
+https://fanart.crackychan.net/unsorted/1/
+https://fanart.crackychan.net/unsorted/2/
 https://fanart.crackychan.net/video/
 https://fanart.crackychan.net/video/reface/
 https://ipv6.cracky-chan.com/
@@ -397,8 +405,3 @@ https://wish.kamistik.com/rightframe
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
 https://youtube.cracky-chan.tk/
-http://[2a04:dd00:16:7:195:242:99:71]/
-http://[2a04:dd00:16:7:195:242:99:71]/board/
-http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
-http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
-http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt

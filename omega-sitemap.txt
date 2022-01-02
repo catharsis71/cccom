@@ -342,8 +342,6 @@ https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
 https://old.cracky-chan.com/
-https://old.cracky-chan.com/sitemap.website.xml
-https://old.cracky-chan.com/sitemap.xml
 https://photobuckets.kamistik.com/
 https://photobuckets.kamistik.com/7eventeen/
 https://photobuckets.kamistik.com/7eventeen/one/

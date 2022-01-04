@@ -25,6 +25,3 @@ https://ipv6.cracky-chan.com/files/
 https://ipv6.cracky-chan.com/robots.txt
 https://ipv6.cracky-chan.com/sitemap.txt
 https://ipv6.cracky-chan.com/sitemap.xml
-https://old.cracky-chan.com/
-https://old.cracky-chan.com/sitemap.website.xml
-https://old.cracky-chan.com/sitemap.xml

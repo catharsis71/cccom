@@ -1,8 +1,6 @@
 ﻿
 Sitemap: https://cracky-chan.com/sitemap.txt
 Sitemap: https://cracky-chan.com/sitemap.xml
-Sitemap: https://old.cracky-chan.com/sitemap.xml
-Sitemap: https://old.cracky-chan.com/sitemap.website.xml
 Sitemap: https://ipv6.cracky-chan.com/sitemap.txt
 Sitemap: https://ipv6.cracky-chan.com/sitemap.xml
 Sitemap: https://catharsis.cracky-chan.com/sitemap.txt

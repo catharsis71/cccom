@@ -2,6 +2,7 @@ http://crackychan.bounceme.net/
 http://crackychan.bounceme.net/cgi-bin/classic.rb
 http://crackychan.bounceme.net/robots.txt
 http://crackychan.bounceme.net/sitemap.txt
+http://old.cracky-chan.tk/
 https://angelesdelabismo.com/
 https://birthday.crackychan.org/
 https://birthday.crackychan.org/cgi-bin/classic.rb
@@ -341,7 +342,6 @@ https://kamistik.com/pasta2
 https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
 https://kamistik.com/sitemap.txt
-https://old.cracky-chan.com/
 https://photobuckets.kamistik.com/
 https://photobuckets.kamistik.com/7eventeen/
 https://photobuckets.kamistik.com/7eventeen/one/

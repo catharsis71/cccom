@@ -1,6 +1,3 @@
-https://skyqueen.cc/pasta8.txt
-
-
 http://crackychan.bounceme.net/
 http://crackychan.bounceme.net/cgi-bin/classic.rb
 http://crackychan.bounceme.net/robots.txt
@@ -429,6 +426,7 @@ https://skyqueen.cc/archive/openmagick/
 https://skyqueen.cc/archive/wishkamistik/
 https://skyqueen.cc/cgi-bin/classic.rb
 https://skyqueen.cc/missing-files.txt
+https://skyqueen.cc/pasta8.txt
 https://skyqueen.cc/robots.txt
 https://skyqueen.cc/sitemap.txt
 https://wish.kamistik.com/

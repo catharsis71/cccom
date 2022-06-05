@@ -1,7 +1,3 @@
-https://crackychan.bounceme.net/
-https://crackychan.bounceme.net/cgi-bin/classic.rb
-https://crackychan.bounceme.net/robots.txt
-https://crackychan.bounceme.net/sitemap.txt
 https://angelesdelabismo.com/
 https://angelesdelabismo.com/404
 https://angelesdelabismo.com/gallery7/
@@ -77,6 +73,10 @@ https://cracky.win/cgi-bin/classic.rb
 https://cracky.win/robots.txt
 https://cracky.win/sitemap.txt
 https://cracky.win/src/
+https://crackychan.bounceme.net/
+https://crackychan.bounceme.net/cgi-bin/classic.rb
+https://crackychan.bounceme.net/robots.txt
+https://crackychan.bounceme.net/sitemap.txt
 https://crackychan.net/
 https://crackychan.net/404
 https://crackychan.net/gallery6/

@@ -1,7 +1,7 @@
-http://crackychan.bounceme.net/
-http://crackychan.bounceme.net/cgi-bin/classic.rb
-http://crackychan.bounceme.net/robots.txt
-http://crackychan.bounceme.net/sitemap.txt
+https://crackychan.bounceme.net/
+https://crackychan.bounceme.net/cgi-bin/classic.rb
+https://crackychan.bounceme.net/robots.txt
+https://crackychan.bounceme.net/sitemap.txt
 https://angelesdelabismo.com/
 https://angelesdelabismo.com/404
 https://angelesdelabismo.com/gallery7/

@@ -363,7 +363,6 @@ https://juice.jemnezymy.com/robots.txt
 https://juice.jemnezymy.com/sitemap.xml
 https://kamistik.com/
 https://kamistik.com/404
-https://kamistik.com/ga
 https://kamistik.com/gallery2/
 https://kamistik.com/gallery2/photos/cracky1/
 https://kamistik.com/gallery2/photos/cracky2/

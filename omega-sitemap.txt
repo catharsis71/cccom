@@ -127,11 +127,13 @@ https://crackypedia.uk/crackylikes/
 https://crackypedia.uk/crackypedia-files/
 https://crackypedia.uk/crackypedia-files/art/
 https://crackypedia.uk/crackypedia-files/art/images/
+https://crackypedia.uk/crackypedia-files/art/pages/
 https://crackypedia.uk/crackypedia-files/art/preoptimized-thumbs/
 https://crackypedia.uk/crackypedia-files/art/thumbs/
 https://crackypedia.uk/crackypedia-files/crackylikes/
 https://crackypedia.uk/crackypedia-files/original/
 https://crackypedia.uk/crackypedia-files/original/images/
+https://crackypedia.uk/crackypedia-files/original/pages/
 https://crackypedia.uk/crackypedia-files/original/preoptimized-thumbs/
 https://crackypedia.uk/crackypedia-files/original/thumbs/
 https://crackypedia.uk/credits/
@@ -361,6 +363,7 @@ https://juice.jemnezymy.com/robots.txt
 https://juice.jemnezymy.com/sitemap.xml
 https://kamistik.com/
 https://kamistik.com/404
+https://kamistik.com/ga
 https://kamistik.com/gallery2/
 https://kamistik.com/gallery2/photos/cracky1/
 https://kamistik.com/gallery2/photos/cracky2/

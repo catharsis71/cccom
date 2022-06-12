@@ -1,0 +1,7 @@
+# Automatically generated
+# duptype id depth size device inode priority name
+DUPTYPE_FIRST_OCCURRENCE 2 0 179288 2 80501843339371283 1 ./legal-a.webp
+DUPTYPE_WITHIN_SAME_TREE -2 0 179288 2 189714134303085993 1 ./legal-c.webp
+DUPTYPE_FIRST_OCCURRENCE 3 0 180932 2 434597364041459468 1 ./legal-b.webp
+DUPTYPE_WITHIN_SAME_TREE -3 0 180932 2 1426515181969726702 1 ./legal.webp
+# end of file

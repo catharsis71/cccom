@@ -475,6 +475,9 @@ https://photobuckets.kamistik.com/sitemap.xml
 https://skyqueen.cc/
 https://skyqueen.cc/archive/
 https://skyqueen.cc/archive/71master/
+https://skyqueen.cc/archive/71master/cracky/random-image/
+https://skyqueen.cc/archive/71master/dolls/random-image/
+https://skyqueen.cc/archive/71master/eos/random-image/
 https://skyqueen.cc/archive/bounceme0/
 https://skyqueen.cc/archive/bounceme1/
 https://skyqueen.cc/archive/bounceme2/

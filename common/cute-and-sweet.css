@@ -92,12 +92,12 @@
   display: inline-block
 }
 
-.hidden-link {
+.hidden-link/*deletethis*/, .white-text-hide-link {
   color: white;
   text-decoration: none
 }
 
-.super-hidden-link {
+.black-text-hide-link {
   color: black;
   text-decoration: none
 }
@@ -106,6 +106,8 @@
   margin: 0;
   color: white;
 }
+
+#mainlink { width: 100% }
 
 .main-paragraph {
   color: white;

@@ -47,7 +47,7 @@
 }
 
 #mainimg,
-#mainimg500 {
+#mainimg-500 {
   border-radius: 10%;
   object-fit: scale-down;
   max-width: 95%;
@@ -59,7 +59,7 @@
   max-height: 95%;
 }
 
-#mainimg500 {
+#mainimg-500 {
   max-height: max(200px, calc(100vh - 300px));
 }
 

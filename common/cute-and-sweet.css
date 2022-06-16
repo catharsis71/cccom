@@ -92,7 +92,7 @@
   display: inline-block
 }
 
-.hidden-link/*deletethis*/, .white-text-hide-link {
+.white-text-hide-link {
   color: white;
   text-decoration: none
 }
@@ -116,6 +116,15 @@
   width: 800px
 }
 
+#tmipTrT0 {
+  width: 116px;
+  height: 28px
+}
+
+.eyebleed-test { animation: argh-my-eyes2 6s infinite; }
+
+.undecorated-link { text-decoration: none }
+
 @media only screen and (max-height: 500px) {
   #flexbox-500 {
     margin-top: 10px;
@@ -126,9 +135,4 @@
     overflow: auto; /* !important; */
     position: static; /* !important */
   }
-}
-
-#tmipTrT0 {
-  width: 116px;
-  height: 28px
 }

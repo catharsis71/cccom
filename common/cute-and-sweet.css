@@ -142,6 +142,10 @@
   max-width: 100%
 }
 
+.100percent {
+  width: 100%
+}
+
 @media only screen and (max-height: 500px) {
   #flexbox-500 {
     margin-top: 10px;

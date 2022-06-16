@@ -6,7 +6,7 @@ async function main() {
 	window.history.replaceState({}, document.title, mylocation);
 }
 
-var mylocation = document.currentScript.getAttribute('location');
+var mylocation = document.currentScript.getAttribute('data-location');
 
 if (mylocation == null) {
 	mylocation = window.location.pathname;

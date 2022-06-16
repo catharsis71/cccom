@@ -121,10 +121,6 @@
   color: white;
 }
 
-#mainlink {
-  width: 100%
-}
-
 .main-paragraph {
   color: white;
   max-width: 85%;
@@ -142,7 +138,7 @@
   max-width: 100%
 }
 
-.100percent {
+.fullwidth {
   width: 100%
 }
 

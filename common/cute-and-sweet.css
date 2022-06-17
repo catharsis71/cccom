@@ -132,6 +132,11 @@
   display: inline-block
 }
 
+input[id^='tmipTrT0'] {
+  width: 116px;
+  height: 28px
+}
+
 .white-text-hide-link {
   color: white;
   text-decoration: none
@@ -168,10 +173,6 @@
 }
 
 
-#tmipTrT0 {
-  width: 116px;
-  height: 28px
-}
 
 .youtube-embed {
   border: none;

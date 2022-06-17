@@ -132,7 +132,7 @@
   display: inline-block
 }
 
-input[id^='tmipTrT0'] {
+#tmipTrT0, [id^='tmipTrT0'] {
   width: 116px;
   height: 28px
 }

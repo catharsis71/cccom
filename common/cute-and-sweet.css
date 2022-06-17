@@ -1,11 +1,18 @@
 #noscroll-body,
 #noscroll-body-noanim,
-#noscroll-body-500 {
+#noscroll-body-500,
+#scrollable-body {
   margin: 0;
   width: 100%;
-  height: 100%;
   text-align: center;
   background-color: black;
+  color: white;
+}
+
+#noscroll-body,
+#noscroll-body-noanim,
+#noscroll-body-500 {
+  height: 100%;
   overflow: hidden;
   position: fixed
 }
@@ -13,6 +20,8 @@
 #noscroll-body-noanim {
   animation: none;
 }
+
+#scrollable-body {}
 
 #me1,
 #me2 {
@@ -46,8 +55,11 @@
   width: 100%
 }
 
+
 #mainimg,
-#mainimg-500 {
+#mainimg-500,
+#mainimg-50,
+#mainimg-600 {
   border-radius: 10%;
   object-fit: scale-down;
   max-width: 95%;
@@ -61,6 +73,25 @@
 
 #mainimg-500 {
   max-height: max(200px, calc(100vh - 300px));
+}
+
+#mainimg-600 {
+  max-height: max(200px, calc(100vh - 400px));
+  width: 640px
+}
+
+#mainimg-50 {
+
+  max-height: calc((100vh - 50px)*0.95);
+  width: 500px
+}
+
+
+#mainimg-novert {
+  border-radius: 10%;
+  max-width: min(95%, 640px);
+  height: auto;
+  width: auto
 }
 
 .floatleft {
@@ -116,6 +147,7 @@
   text-decoration: none
 }
 
+/*delete this*/
 #main-h1 {
   margin: 0;
   color: white;
@@ -127,6 +159,14 @@
   margin: 0 auto 15px auto;
   width: 800px
 }
+
+#gcse-searchbox-container {
+  width: 70%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 #tmipTrT0 {
   width: 116px;
@@ -142,6 +182,28 @@
   width: 100%
 }
 
+.nomargin {
+  margin: 0
+}
+
+.width100 {
+  width: 100px
+}
+
+.monospace-p {
+  font-family: courier;
+  max-width: 95%;
+  margin: 0 auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: clip
+}
+
+.no {
+  text-decoration: line-through;
+  color: white;
+}
+
 @media only screen and (max-height: 500px) {
   #flexbox-500 {
     margin-top: 10px;
@@ -151,5 +213,23 @@
   #noscroll-body-500 {
     overflow: auto;
     position: static;
+  }
+}
+
+@media only screen and (max-height: 600px) {
+  #flexbox-600 {
+    margin-top: 10px;
+    justify-content: flex-start
+  }
+
+  noscroll-body-600 {
+    overflow: auto;
+    position: static;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #monospace-p {
+    line-height: 1.6
   }
 }

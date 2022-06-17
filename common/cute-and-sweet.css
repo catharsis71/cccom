@@ -129,7 +129,7 @@
   line-height: 16px;
   position: relative;
   height: 30.5px;
-  display: inline-block
+  /* display: inline-block */
 }
 
 #tmipTrT0, [id^='tmipTrT0'] {

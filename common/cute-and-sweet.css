@@ -1,6 +1,7 @@
 #noscroll-body,
 #noscroll-body-noanim,
 #noscroll-body-500,
+#noscroll-body-600,
 #scrollable-body {
   margin: 0;
   width: 100%;
@@ -11,7 +12,8 @@
 
 #noscroll-body,
 #noscroll-body-noanim,
-#noscroll-body-500 {
+#noscroll-body-500,
+#noscroll-body-600 {
   height: 100%;
   overflow: hidden;
   position: fixed
@@ -46,7 +48,8 @@
 }
 
 #flexbox,
-#flexbox-500 {
+#flexbox-500,
+#flexbox-600 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -57,8 +60,8 @@
 
 
 #mainimg,
-#mainimg-500,
 #mainimg-50,
+#mainimg-500,
 #mainimg-600 {
   border-radius: 10%;
   object-fit: scale-down;
@@ -223,7 +226,7 @@
     justify-content: flex-start
   }
 
-  noscroll-body-600 {
+  #noscroll-body-600 {
     overflow: auto;
     position: static;
   }

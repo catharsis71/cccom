@@ -134,7 +134,8 @@
 
 #tmipTrT0, [id^='tmipTrT0'] {
   width: 116px;
-  height: 28px
+  height: 28px;
+  max-width: 100%;
 }
 
 .white-text-hide-link {

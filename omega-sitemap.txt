@@ -369,6 +369,7 @@ https://ipv6.cracky-chan.com/sitemap.txt
 https://ipv6.cracky-chan.com/sitemap.xml
 https://jemnezymy.com/
 https://jemnezymy.com/404
+https://jemnezymy.com/classic.txt
 https://jemnezymy.com/gallery5/
 https://jemnezymy.com/gallery5/cracky1
 https://jemnezymy.com/gallery5/cracky2

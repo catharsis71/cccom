@@ -502,4 +502,3 @@ http://[2a04:dd00:16:7:195:242:99:71]/board/
 http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
 http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
 http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
-

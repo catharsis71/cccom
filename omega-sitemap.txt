@@ -46,6 +46,7 @@ https://catharsis.cracky-chan.com/testgallery/
 https://catharsis.cracky-chan.com/testgallery/cracky1.html
 https://catharsis.cracky-chan.com/testgallery/cracky2.html
 https://catharsis71.github.io/
+https://catharsis71.github.io/robots.txt
 https://cracky-chan.com/
 https://cracky-chan.com/404
 https://cracky-chan.com/carpfood/
@@ -206,6 +207,7 @@ https://dear-olivia.com/robots.txt
 https://dear-olivia.com/sitemap.txt
 https://dear-olivia.com/submit/
 https://expreglosa.com/
+https://expreglosa.com/robots.txt
 https://fanart.crackychan.net/
 https://fanart.crackychan.net/art/
 https://fanart.crackychan.net/art/artists/

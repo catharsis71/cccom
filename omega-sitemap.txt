@@ -1,8 +1,3 @@
-http://[2a04:dd00:16:7:195:242:99:71]/
-http://[2a04:dd00:16:7:195:242:99:71]/board/
-http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
-http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
-http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt
 https://angelesdelabismo.com/
 https://angelesdelabismo.com/404
 https://angelesdelabismo.com/gallery7/
@@ -533,3 +528,8 @@ https://wish.kamistik.com/rightframe
 https://wish.kamistik.com/robots.txt
 https://wish.kamistik.com/sitemap.txt
 https://youtube.cracky-chan.tk/
+http://[2a04:dd00:16:7:195:242:99:71]/
+http://[2a04:dd00:16:7:195:242:99:71]/board/
+http://[2a04:dd00:16:7:195:242:99:71]/cgi-bin/classic.rb
+http://[2a04:dd00:16:7:195:242:99:71]/robots.txt
+http://[2a04:dd00:16:7:195:242:99:71]/sitemap.txt

@@ -71,7 +71,6 @@ https://cracky-chan.tk/gallery4/cracky2/
 https://cracky-chan.tk/pasta4
 https://cracky-chan.tk/pasta4.txt
 https://cracky-chan.tk/robots.txt
-https://cracky-chan.tk/selling.txt
 https://cracky-chan.tk/sitemap.txt
 https://cracky.win/
 https://cracky.win/cgi-bin/classic.rb
@@ -418,6 +417,7 @@ https://kamistik.com/gallery2/photos/cracky2/
 https://kamistik.com/pasta2
 https://kamistik.com/pasta2.txt
 https://kamistik.com/robots.txt
+https://kamistik.com/selling.txt
 https://kamistik.com/sitemap.txt
 https://meme.angelesdelabismo.com/
 https://meme.angelesdelabismo.com/cgi-bin/classic.rb

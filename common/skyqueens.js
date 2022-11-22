@@ -17,8 +17,6 @@ for (x = 0; x < numqueens; x++) {
   document.body.insertAdjacentHTML("beforeend", '<div style="position:absolute;" id="snFlkDiv' + x + '"><img src="' + pictureSrc + '" height="' + pictureHeight + '" width="' + pictureWidth + '" alt="*" border="0"></div>');
 }
 
-document.body.insertAdjacentHTML("beforeend", '<script>window.onload=dispenseskyqueens()</script>');
-
 var xcoords = new Array(),
   ycoords = new Array(),
   snFlkTemp;
@@ -111,7 +109,10 @@ function dispenseskyqueens() {
 function stoplovingcracky() {
   window.clearInterval(Emergencyskyqueens);
   console.log("ERROR: no one ever stops loving Cracky");
-  document.querySelectorAll("[id*=snFlkDiv]").remove();
+  const elements = document.querySelectorAll("[id*=snFlkDiv]"));
+  while(elements.length > 0){
+    elements[0].parentNode.removeChild(elements[0]);
+  }
 }
 
 window.onload=dispenseskyqueens()

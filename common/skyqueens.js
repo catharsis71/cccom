@@ -113,3 +113,5 @@ function stoplovingcracky() {
   console.log("ERROR: no one ever stops loving Cracky");
   document.querySelectorAll("[id*=snFlkDiv]").remove();
 }
+
+window.onload=dispenseskyqueens()

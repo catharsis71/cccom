@@ -109,7 +109,7 @@ function dispenseskyqueens() {
 function stoplovingcracky() {
   window.clearInterval(Emergencyskyqueens);
   console.log("ERROR: no one ever stops loving Cracky");
-  const elements = document.querySelectorAll("[id*=snFlkDiv]"));
+  const elements = document.querySelectorAll("[id*=snFlkDiv]");
   while(elements.length > 0){
     elements[0].parentNode.removeChild(elements[0]);
   }

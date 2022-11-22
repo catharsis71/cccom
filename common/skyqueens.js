@@ -118,7 +118,7 @@ function stoplovingcracky() {
 window.onload=dispenseskyqueens()
 
 function checkKeyPressed(evt) {
-  if (evt.key === " ") || (evt.key === "Escape") {
+  if (evt.key === ( " " || "Escape")) {
     stoplovingcracky();
   }
 }

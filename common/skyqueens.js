@@ -1,5 +1,6 @@
 /* jshint esversion: 8 */
 
+window.addEventListener("keyup", checkKeyPressed, false);
 var pictureSrc = '/common/crotate.gif';
 var pictureWidth = 121;
 var pictureHeight = 132;
@@ -117,7 +118,7 @@ function stoplovingcracky() {
 window.onload=dispenseskyqueens()
 
 function checkKeyPressed(evt) {
-  if (evt.key === " ") {
+  if (evt.key === " ") || (evt.key === "Escape") {
     stoplovingcracky();
   }
 }

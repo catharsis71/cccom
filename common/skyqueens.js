@@ -109,10 +109,15 @@ function dispenseskyqueens() {
 function stoplovingcracky() {
   window.clearInterval(Emergencyskyqueens);
   console.log("ERROR: no one ever stops loving Cracky");
-  const elements = document.querySelectorAll("[id*=snFlkDiv]");
-  while(elements.length > 0){
-    elements[0].parentNode.removeChild(elements[0]);
+  for ( const elem of document.querySelectorAll("[id*=snFlkDiv]")) {
+    elem.remove();
   }
 }
 
 window.onload=dispenseskyqueens()
+
+function checkKeyPressed(evt) {
+  if (evt.key === "Escape") {
+    stoplovingcracky();
+  }
+}

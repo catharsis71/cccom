@@ -101,7 +101,6 @@ https://crackychan.org/pasta3.txt
 https://crackychan.org/robots.txt
 https://crackychan.org/sitemap.txt
 https://crackyhouse.com/
-https://crackyhouse.com/board/
 https://crackyhouse.com/cam/
 https://crackyhouse.com/cgi-bin/classic.rb
 https://crackyhouse.com/closed/
@@ -125,6 +124,7 @@ https://crackyhouse.com/inner/
 https://crackyhouse.com/irc/
 https://crackyhouse.com/irc2/
 https://crackyhouse.com/jmusic/
+https://crackyhouse.com/kareha
 https://crackyhouse.com/kareha/
 https://crackyhouse.com/legend-eng/
 https://crackyhouse.com/legend/

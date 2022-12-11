@@ -77,6 +77,7 @@ https://cracky.win/
 https://cracky.win/1.html
 https://cracky.win/cgi-bin/classic.rb
 https://cracky.win/robots.txt
+https://cracky.win/search.php
 https://cracky.win/sitemap.txt
 https://cracky.win/src/
 https://crackychan.bounceme.net/
@@ -534,6 +535,7 @@ https://skyqueen.cc/pasta8.txt
 https://skyqueen.cc/robots.txt
 https://skyqueen.cc/sitemap.txt
 https://skyqueen.cc/src/
+https://skyqueen.cc/src/restore-from-graveyard/
 https://wish.kamistik.com/
 https://wish.kamistik.com/nope.txt
 https://wish.kamistik.com/rightframe

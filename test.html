@@ -11,23 +11,8 @@
 </head>
  
 <body>
-    <div style="text-align: center;">
-        <h2 style="color: green;">
-            GeeksforGeeks
-        </h2>
-        <h3>
-            Click the below button to
-            get the language preference.
-        </h3>
-        <button id="myBtn">
-            Get Preferred language
-        </button>
-        <p id="result"></p>
-    </div>
- 
+
     <script>
-        const myBtn = document.
-            getElementById('myBtn')
         function getLanguages() {
             const langs = navigator.languages;
             const result = document.
@@ -35,7 +20,7 @@
             result.innerHTML +=
                 `The Preferred languages are: <b>${langs}</b>`;
         }
-        myBtn.addEventListener('click', getLanguages);
+        getLanguages;
     </script>
  
 </body>

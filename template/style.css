@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "times", serif;
+  max-width:100%;
 }
 
 .form-container {
@@ -12,6 +13,7 @@ body {
   flex-wrap: wrap;
   width: 66%;
   margin: 20px auto;
+  max-width:100%;
 }
 
 .tisti1 {

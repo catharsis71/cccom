@@ -31,7 +31,7 @@ body {
 }
 
 .tisti3 {
-  width: 50%;
+  width: 55%;
   float: right;
   display: block;
   height: 51px;
@@ -53,6 +53,12 @@ body {
     width: 100%;
     margin: 10px auto;
   }
+
+  .tisti3 {
+    width: 54%;
+    height: 53px;
+  }
+
 }
 
 /* Cracky es catarsis https: //cracky-chan.com/ */

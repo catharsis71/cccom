@@ -1,0 +1,58 @@
+﻿* {
+  resize: none;
+}
+
+body {
+  margin: 0;
+  font-family: "times", serif;
+}
+
+.form-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 66%;
+  margin: 20px auto;
+}
+
+.tisti1 {
+  width: 40%;
+  margin-bottom: 5px;
+  display: block;
+  height: 22px;
+  border: 1px solid black;
+}
+
+.tisti2 {
+  width: 40%;
+  margin-bottom: 5px;
+  display: block;
+  height: 22px;
+  border: 1px solid black;
+}
+
+.tisti3 {
+  width: 55%;
+  float: right;
+  display: block;
+  height: 51px;
+  border: 1px solid black;
+  margin: 0;
+}
+
+.submit-btn {
+  width: 388px;
+  background-color: red;
+  border: 1px solid grey;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .form-container {
+    width: 100%;
+    margin: 10px auto;
+  }
+}
+
+/* Cracky es catarsis https: //cracky-chan.com/ */

@@ -1,0 +1,7 @@
+If you were redirected here, you probably sent a very strange HTTP request to one of my servers.
+
+Now you are here, on a Cloudflare Pages site, where your very strange HTTP requests are someone else's problem.
+
+This is only intended for bots and other such subhumans.
+
+If any actual crackyfolx somehow end up here (not counting finding the file by stalking the GitHub repo) please tell me what you were doing.

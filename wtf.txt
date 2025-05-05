@@ -1,4 +1,4 @@
-If you were redirected here, you probably sent a very strange HTTP request to one of my servers.
+﻿If you were redirected here, you probably sent a very strange HTTP request to one of my servers.
 
 Now you are here, on a Cloudflare Pages site, where your very strange HTTP requests are someone else's problem.
 

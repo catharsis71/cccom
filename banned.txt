@@ -1,4 +1,4 @@
-If you have been redirected here, your IP is probably on the Crowdsec Community Blocklist or the GreenSnow blacklist.
+﻿If you have been redirected here, your IP is probably on the Crowdsec Community Blocklist or the GreenSnow blacklist.
 
 So maybe you should look into that?
 
